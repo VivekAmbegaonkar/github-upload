@@ -7,7 +7,7 @@
 # How to use?
 ### You can fork or download the repo, Once you have both the files "MAIN.C" and "ELECTION.H", You just need to compile and run MAIN.C
 #### ( It's too easy, isn't it? ☺)
-##### For Admin Panel Use Username: "Vivek" Password: "Vivek@123"
+##### For Admin Panel Use Username: "Vivek@123" Password: "Vivek@123"
 
 # Below is the video to see demo of project
 ## Link: https://drive.google.com/file/d/17yFA8VC9chpWav8kXXIYQR4B55sf4W9b/view?usp=sharing
